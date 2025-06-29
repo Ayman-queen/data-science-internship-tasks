@@ -1,4 +1,3 @@
-# data-science-internship-tasks
 ## 📊 Data Science & Analytics Internship Tasks
 
 **DeveloperHub Corporation – Internship Projects**
